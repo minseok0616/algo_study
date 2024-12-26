@@ -43,7 +43,42 @@
 # print(a)
 # print(a)
 #6015
-a,b =map(int,input().split())
-print(a)
-print(b)
-
+# a,b =map(int,input().split())
+# print(a)
+# print(b)
+#6016
+# a,b = input().split()
+# print(b,a)
+#6017
+# s = input()
+# print(s,s,s)
+#6018
+# a,b = input().split(':')
+# print(a,b,sep=':')
+#6019
+# y,m,d = input().split('.')
+# print(d,m,y,sep='-')
+#6020
+# front,back = input().split('-')
+# print(front+back)
+#6021
+# word = input()
+# for i in range(len(word)):
+#     print(word[i])
+#6022
+# word = input()
+# print(word[0:2],word[2:4],word[4:6])
+#6023
+# time = input().split(':')
+# print(time[1])
+#6024
+# w1,w2 = input().split()
+# print(w1+w2)
+#6025
+# a,b = map(int,input().split())
+# print(a+b)
+#6026
+# a = float(input())
+# b = float(input())
+# print(a+b)
+#6027
