@@ -82,3 +82,8 @@
 # b = float(input())
 # print(a+b)
 #6027
+# a = int(input())
+# print('%x'%a)
+#6028
+a = int(input())
+print('%X'%a)
