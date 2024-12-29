@@ -88,3 +88,48 @@
 # a = int(input())
 # print('%X'%a)
 #6029
+# a = input()
+# n = int(a,16)
+# print("%o"%n)
+#6030
+# n = ord(input())
+# print(n)
+#6031
+# c = int(input())
+# print(chr(c))
+#6032
+# n = int(input())
+# print(-n)
+#6033
+# n = ord(input())
+# print(chr(n+1))
+#6034
+# a,b = map(int,input().split())
+# c = a-b
+# print(c)
+#6035
+# f1,f2 = map(float,input().split())
+# m = f1*f2
+# print(m)
+#6036
+# w,n = input().split()
+# print(w*int(n))
+#6037
+# n = int(input())
+# s = input()
+# print(int(n)*s)
+#6038
+# a,b = map(int,input().split())
+# c = a**b
+# print(c)
+#6039
+# a,b = map(float,input().split())
+# c = a**b
+# print(c)
+#6040
+# a,b = map(int,input().split())
+# print(a//b)
+# #6041
+# a,b = map(int,input().split())
+# print(a%b)
+#6042

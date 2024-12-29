@@ -1,2 +1,3 @@
-a,b = input().split(':')
-print(a,b,sep=':')
+n = int(input())
+s = input()
+print(int(n)*s)
