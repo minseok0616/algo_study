@@ -133,3 +133,19 @@
 # a,b = map(int,input().split())
 # print(a%b)
 #6042
+# a = float(input())
+# print(format(a,".2f"))
+#6043
+# f1,f2 = map(float,input().split())
+# print(format(f1/f2,".3f"))
+#6044
+# a,b = map(int,input().split())
+# print(a+b)
+# print(a-b)
+# print(a*b)
+# print(a//b)
+# print(a%b)
+# print(format(a/b,".2f"))
+#6045
+a,b,c = map(int,input().split())
+print(a+b+c,format((a+b+c)/3,".2f"))
