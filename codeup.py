@@ -147,5 +147,6 @@
 # print(a%b)
 # print(format(a/b,".2f"))
 #6045
-a,b,c = map(int,input().split())
-print(a+b+c,format((a+b+c)/3,".2f"))
+# a,b,c = map(int,input().split())
+# print(a+b+c,format((a+b+c)/3,".2f"))
+#6046
